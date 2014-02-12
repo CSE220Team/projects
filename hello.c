@@ -4,7 +4,6 @@
 
 main()
 {
-    printf("Hello World");
-    printf("and other doods"); //Adam Lew
+    printf("Hello World");// "Shoop da woop" -Adam Lew
 
 }
